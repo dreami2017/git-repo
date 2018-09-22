@@ -2,3 +2,5 @@ pprint ("Hello world!!!");
 print ("Hello people!!!");
 pprint ("Hello all!!!");
 print ("Hello sun!!!");
+print ("Hello all!!!");
+print ("Hello sun!!!");
