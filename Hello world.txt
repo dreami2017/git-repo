@@ -1,2 +1,4 @@
 pprint ("Hello world!!!");
-print ("Hello world!!!");
+print ("Hello people!!!");
+pprint ("Hello all!!!");
+print ("Hello sun!!!");
